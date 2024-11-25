@@ -1,0 +1,14 @@
+C:\Users\asa80\OneDrive\المستندات\ProExam\bin\Debug\net8.0\ProExam.exe
+C:\Users\asa80\OneDrive\المستندات\ProExam\bin\Debug\net8.0\ProExam.deps.json
+C:\Users\asa80\OneDrive\المستندات\ProExam\bin\Debug\net8.0\ProExam.runtimeconfig.json
+C:\Users\asa80\OneDrive\المستندات\ProExam\bin\Debug\net8.0\ProExam.dll
+C:\Users\asa80\OneDrive\المستندات\ProExam\bin\Debug\net8.0\ProExam.pdb
+C:\Users\asa80\OneDrive\المستندات\ProExam\obj\Debug\net8.0\ProExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asa80\OneDrive\المستندات\ProExam\obj\Debug\net8.0\ProExam.AssemblyInfoInputs.cache
+C:\Users\asa80\OneDrive\المستندات\ProExam\obj\Debug\net8.0\ProExam.AssemblyInfo.cs
+C:\Users\asa80\OneDrive\المستندات\ProExam\obj\Debug\net8.0\ProExam.csproj.CoreCompileInputs.cache
+C:\Users\asa80\OneDrive\المستندات\ProExam\obj\Debug\net8.0\ProExam.dll
+C:\Users\asa80\OneDrive\المستندات\ProExam\obj\Debug\net8.0\refint\ProExam.dll
+C:\Users\asa80\OneDrive\المستندات\ProExam\obj\Debug\net8.0\ProExam.pdb
+C:\Users\asa80\OneDrive\المستندات\ProExam\obj\Debug\net8.0\ProExam.genruntimeconfig.cache
+C:\Users\asa80\OneDrive\المستندات\ProExam\obj\Debug\net8.0\ref\ProExam.dll
